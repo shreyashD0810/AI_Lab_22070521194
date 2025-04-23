@@ -62,5 +62,6 @@ This repository features implementations of essential AI practicals, aimed at br
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Krutikagadge/AI_Lab.git
-   cd ai-lab-practicals
+   git clone https://github.com/shreyashD0810/AI-LAB_SHREYASH_22070521194.git
+   
+   cd AI-LAB_SHREYASH_22070521194
