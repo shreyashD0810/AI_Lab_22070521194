@@ -47,7 +47,7 @@ This repository features implementations of essential AI practicals, aimed at br
 ### 7. 🔬 Feature Extraction & Analysis
 - Engineered features from preprocessed text; analyzed word embeddings and statistical data.
 
-### 8. 📩 Spam Filter Using NLP
+### 8. 📩 NLP
 - Trained a Naïve Bayes classifier to detect spam messages using NLP techniques.
 
 ### 9. 🤖 Robot Traversal Problem
@@ -55,13 +55,6 @@ This repository features implementations of essential AI practicals, aimed at br
 
 ### 10. 🎮 Tic-Tac-Toe Game AI
 - Implemented an AI agent using the Minimax Algorithm for optimal gameplay.
-
-### 11. 🏥 Expert Systems
-- Developed a Course Advisor Expert System and analyzed a medical expert system case study.
-
-### 12. 🌍 Real-World AI Applications
-- **Sentiment Analysis**: Classified sentiments from real-world text datasets.  
-- **Fake News Detection**: Built a model to detect fake news articles using NLP techniques.
 
 ---
 
